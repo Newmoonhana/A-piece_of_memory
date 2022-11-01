@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 87eac0b489ae4224798db3c67bfeed1b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _player: {instanceID: 0}
+  - DamageR_06: {fileID: 21300000, guid: 5f9166fe2c76af24e88be8c75b249c3c, type: 3}
+  - Sword00: {fileID: 21300000, guid: 8772946dd523fe148a8a76b8269ea1e0, type: 3}
+  executionOrder: 600
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

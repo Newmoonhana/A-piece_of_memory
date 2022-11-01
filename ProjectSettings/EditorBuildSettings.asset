@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Assets/Scenes/Chapter/Chap 0/Event00.unity
+    guid: 79b2b9eff1f80bb4d8991d21e1b64f4f
+  - enabled: 1
+    path: Assets/Assets/Scenes/Chapter/Chap 0/MainScene.unity
+    guid: 8d9721881f3836a45839ec91c4224d48
+  - enabled: 1
+    path: Assets/Assets/Scenes/Chapter/Chap 0/Dungen01Scene.unity
+    guid: 797ae3a4a1da5bd4cb2a9ca254602246
+  - enabled: 1
+    path: Assets/Assets/Scenes/Chapter/Chap 0/Event01.unity
+    guid: 8a438589a9658f4458c84d2d84c1578b
+  - enabled: 1
+    path: Assets/Assets/Scenes/Chapter/Chap 0/Event02.unity
+    guid: 5c047db66687b9547a8d10a20e5ae538
+  - enabled: 1
+    path: Assets/Assets/Scenes/Chapter/Chap 0/Event03.unity
+    guid: d7594c57a8738d94c89467438018acfa
+  - enabled: 1
+    path: Assets/Assets/Scenes/Chapter/Chap 0/Event04.unity
+    guid: ab3918c2ab3742a47b30760aee42ce90
+  - enabled: 1
+    path: Assets/Assets/Scenes/Chapter/Chap 0/Event05.unity
+    guid: 8e34d2ca993c948408b923a266d228b9
+  - enabled: 1
+    path: Assets/Assets/Scenes/Chapter/Chap 0/Event06.unity
+    guid: efaf80722763666459c6c74cc044d8bb
+  - enabled: 1
+    path: Assets/Assets/Scenes/Chapter/Chap 0/Event07.unity
+    guid: e6237b225f288cb48a0bfc8f3542484a
+  - enabled: 1
+    path: Assets/Assets/Scenes/Chapter/Chap 0/LakeScene01.unity
+    guid: 9ae8e264bf5d8d04aa28a799504127ee
+  - enabled: 1
+    path: Assets/Assets/Scenes/Chapter/Chap 1/CountDung01Scene.unity
+    guid: 856a991912c61d24796c4a25ba412add
+  - enabled: 1
+    path: Assets/Assets/Scenes/Chapter/Chap 1/CountDung02Scene.unity
+    guid: 319b61e4c561772468a1f55dce105029
+  - enabled: 1
+    path: Assets/Assets/Scenes/Chapter/Chap 1/CountDung03Scene.unity
+    guid: d4d695e1dc261d64fa5a86f4cd0ec17c
+  - enabled: 1
+    path: Assets/Assets/Scenes/Chapter/Chap 1/CountryTown00Scene.unity
+    guid: 8c73e53d71e3e6347a5e6c49e8e93e88
+  - enabled: 1
+    path: Assets/Assets/Scenes/MainCutScene.unity
+    guid: 5e66240c514e7b647bc614a64d8ea2e2
+  m_configObjects: {}

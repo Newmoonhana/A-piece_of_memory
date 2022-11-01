@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 94fdb39d4b4c90c478b02283f1c4cc50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _Canvas_HP: {instanceID: 0}
+  - _HP_sprite: {fileID: 1104088321688048, guid: ac9b66abbdc5f4d49b4581b119bd0af7,
+      type: 2}
+  - _heartSprite: {fileID: 21300000, guid: 70746de8d50ee184f99a82a03bf30dae, type: 3}
+  - _heartSprite_half: {fileID: 21300000, guid: 60eb8787fdd02524e8ac5ac321b966d3,
+      type: 3}
+  - _heartSpriteX: {fileID: 21300000, guid: 9200a649dd830f7418f933b8a143a284, type: 3}
+  - _MP_Bar: {instanceID: 0}
+  - _Canvas: {instanceID: 0}
+  - _Monster: {instanceID: 0}
+  - _Monster_HP: {instanceID: 0}
+  executionOrder: 400
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
